@@ -1,3 +1,4 @@
+# TO RUN THE FILE ENTER ./bike-shop.sh IN THE COMMAND PROMPT
 #!/bin/bash
 
 PSQL="psql -X --username=freecodecamp --dbname=bikes --tuples-only -c"
